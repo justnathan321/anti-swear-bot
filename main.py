@@ -2,7 +2,7 @@ import discord
 import random
 
 # Discord Bot Token
-TOKEN = 'ODA2OTQ2NDQxNDM1MTUyNDU0.YBw1bw.1cb_eBbbDJ43UgqXOy0XiZX_-_s'
+TOKEN = 'YOUR-TOKEN'
 
 # Command related stuff
 PREFIX = 'ASB '
