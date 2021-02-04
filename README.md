@@ -14,7 +14,7 @@ Unfortunately it is a bit difficult to install.
 
 1. Git clone this repo
 2. Make a Discord application and a bot
-3. In main.py, change the token to your Discord bot token
+3. In main.py line 5 (TOKEN = 'YOUR-TOKEN'), change the token to your Discord bot token
 4. Add the bot to your Discord server
 5. Enjoy!
 
